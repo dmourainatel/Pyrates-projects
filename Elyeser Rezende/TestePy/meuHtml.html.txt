@@ -1,0 +1,5 @@
+<html>
+	<body>
+		<p>Hello <strong>{{ nome }}</strong></p>
+	</body>
+</html>
